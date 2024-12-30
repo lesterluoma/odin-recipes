@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  color: #00008b;
+  padding: 24px;
+  margin: 8px;
+  font-size: 36px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 24px;
+  background-color: #f0f8ff;
+}
+
+a {
+  text-decoration: none;
+  font-size: 16px;
+}
